@@ -1,0 +1,71 @@
+Title:Pioneer Law
+Author: Rebecca and Kwok
+Description: Filing a Complaint for Wage and Hour in Massachusetts
+
+Q(1):Would you like our help today?
+A: Yes
+	Q(name): What is your full name?
+	X:
+		Q(1.1.1): <x>name</x> what is the best contact to reach you at (email address or phone #)? 
+		X:
+			Q(1.1.1.1): <x>name</x> What type of problem are you having? 
+			A: Employment/Wage and Hour problems
+				Q(1.1.1.1.1): What problems are you having with your Employer? Please select from the following <x>name</x>.
+				A: (1)	Untimely Payment of Wages: When are you legally suppose to get paid?
+					Q(1.1.1.1.1.1): Are you a Salary Employee or a Wage and Hourly Employee?
+					A: Salary Employee: Salaried employees can be paid weekly, biweekly or semimonthly. Employers cannot pay salaried employees on a monthly basis unless the employee actually chooses to be paid monthly. 
+						Q(1.1.1.1.1.1.1): Is there a problem with when you are getting paid? 
+						A: Yes
+							Q(1.1.1.1.1.1.1.1): Here are the following resources you may contact. 
+							A:	AGO MA
+							A: 	GBLS
+							A: 	Suffolk University Accelerator Practice Clinic. 
+							A: 	NO
+					A: Wage and Hourly Employee: Massachusetts requires employees paid on an hourly basis to receive their paychecks on a weekly or biweekly basis.
+						Q(1.1.1.1.1.1.2): Is there a problem with when you are getting paid? 
+						A: Yes
+							Q(1.1.1.1.1.1.2.1): Here are the following resources you may contact. 
+							A:	AGO MA
+							A: 	GBLS
+							A: 	Suffolk University Accelerator Practice Clinic. 
+						A: NO
+				A: (2)	Failure to Pay Wages upon Termination Did your Employer pay you after you left the place of employment?
+					Q(1.1.1.1.1.2): <x>name</x> were you laid off/terminated or did you leave voluntarily?
+					A: Laid off: An employer must pay on the final day of employment all wages owed to an employee who is terminated or laid off. 
+						Q(1.1.1.1.1.2.1): Is there a problem with getting paid after being laid off/terminated? 
+						A:Yes
+							Q(1.1.1.1.1.2.1.1):Here are the following resources you may contact. 
+							A:	AGO MA
+							A: 	GBLS
+							A: 	Suffolk University Accelerator Practice Clinic.
+						A: No 
+					A: Voluntarily left: When an employee leaves voluntarily, the employer can wait and pay all of the employee's wages by the next regular payday.
+						Q(1.1.1.1.1.2.2): Is there a problem with getting paid after voluntarily leaving? 
+						A: Yes
+							Q(1.1.1.1.1.2.2.1): Here are the following resources you may contact. 
+							A:	AGO MA
+							A: 	GBLS
+							A: 	Suffolk University Accelerator Practice Clinic. 
+						A: No	
+				A: (3)	Mischaracterization of employees as exempt or nonexempt
+
+				A: (4)	Failure to pay overtime for salaried employees
+				A: (5)	Misclassification of employees
+				A: (6)	Improperly taking deductions from wages
+				A: (7)	Unlawful prepayment of wages
+				A: (8)	Failure to pay earned vacation time
+				A: (9)	Mischaracterization of commissions and bonuses
+				A: (1)	Requiring work on Sundays and holidays
+				
+			A: Corporate problems
+			A: Real Estate problems	
+			A: Estate, Trust and Wills
+A:NO
+
+
+
+
+			
+
+
+
